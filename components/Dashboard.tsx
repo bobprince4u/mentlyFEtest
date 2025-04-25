@@ -105,7 +105,7 @@ export default function Dashboard() {
               <UsersSection />
             </AnimatedSection>
           
-            <AnimatedSection className="grid justify-end" variant={slideUp} delay={0.6}>
+            <AnimatedSection className="" variant={slideUp} delay={0.6}>
               <RecentActivitiesSection />
             </AnimatedSection>
           
